@@ -1,0 +1,180 @@
+Uri: https://counter1.fc2.com/counter.php?id=89502368
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\counter.php
+Content Type: application/x-javascript
+
+Uri: https://counter1.fc2.com/counter_img.php?id=89502368
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\counter_img.php
+Content Type: image/gif
+
+Uri: https://i.imgur.com/fQ18mrR.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\fQ18mrR.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/IGXGYKz.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\IGXGYKz.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Qtm9Z60.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\Qtm9Z60.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/WhC8iy3.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\WhC8iy3.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\index.htm
+Content Type: text/html
+
+Uri: https://kidclub.neocities.org/art/BREKKIE.jpg
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\art\BREKKIE.jpg
+Content Type: image/jpeg
+
+Uri: https://kidclub.neocities.org/bg/fobg.jpeg
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\bg\fobg.jpeg
+Content Type: image/jpeg
+
+Uri: https://kidclub.neocities.org/bg/jet.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\bg\jet.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/blog
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\blog.html
+Content Type: text/html
+
+Uri: https://kidclub.neocities.org/blog/articles/artificial
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\blog\articles\artificial.html
+Content Type: text/html
+
+Uri: https://kidclub.neocities.org/blog/articles/memory
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\blog\articles\memory.html
+Content Type: text/html
+
+Uri: https://kidclub.neocities.org/blog/articles/publicart
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\blog\articles\publicart.html
+Content Type: text/html
+
+Uri: https://kidclub.neocities.org/blog/updates/011423
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\blog\updates\011423.html
+Content Type: text/html
+
+Uri: https://kidclub.neocities.org/img/ac.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\ac.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/affection.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\affection.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/badge.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\badge.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/bannerfree.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\bannerfree.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/blueshell.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\blueshell.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/img/chain.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\chain.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/img/css.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\css.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/genx.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\genx.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/iesucks.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\iesucks.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/mail.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\mail.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/me.jpg
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\me.jpg
+Content Type: image/jpeg
+
+Uri: https://kidclub.neocities.org/img/middle.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\middle.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/minecraft.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\minecraft.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/neocities.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\neocities.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/openeyes.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\openeyes.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/pfp.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\pfp.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/img/pipe.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\pipe.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/img/piranha.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\piranha.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/img/poke.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\poke.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/img/portfolio.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\portfolio.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/psbutton.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\psbutton.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/sitelogo_b&w.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\sitelogo_b&w.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/img/smile.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\smile.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/tooth.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\tooth.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/img/Ukkiki.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\Ukkiki.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/img/upallnight.gif
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\upallnight.gif
+Content Type: image/gif
+
+Uri: https://kidclub.neocities.org/img/worldisa.png
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\img\worldisa.png
+Content Type: image/png
+
+Uri: https://kidclub.neocities.org/styles/about.css
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\styles\about.css
+Content Type: text/css
+
+Uri: https://kidclub.neocities.org/styles/blog.css
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\styles\blog.css
+Content Type: text/css
+
+Uri: https://www.scmplayer.net/script.js
+File Name: C:\Downloaded Web Sites\kidclub.neocities.org\script.js
+Content Type: application/javascript
+

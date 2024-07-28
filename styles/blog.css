@@ -1,0 +1,165 @@
+html {
+     display: flex;
+     font-family: "MS UI Gothic", Tahoma;
+     font-size: 12px;
+     image-rendering: pixelated;
+     image-rendering: -moz-crisp-edges;
+     image-rendering: crisp-edges;
+     font-smooth: never;
+     -webkit-font-smoothing: none;
+}
+/*scrollbar element*/
+ ::-webkit-scrollbar {
+  width: 15px;
+  height: 10px;
+}
+ ::-webkit-scrollbar-thumb:vertical{
+  background-color: #fff;
+  background-image: url(../Qtm9Z60.png);
+  border-top: 1px solid #bdbdbd;
+  border-left: 1px solid #bdbdbd;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+ ::-webkit-scrollbar-track {
+  background-color: #fff;
+  background-image: url(../IGXGYKz.png);
+}
+ ::-webkit-scrollbar-button:vertical:increment {
+  background-image: url(../WhC8iy3.png);
+  width: 14px;
+  height: 16px;
+  border-top: 1px solid #bdbdbd;
+  border-left: 1px solid #bdbdbd;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+ ::-webkit-scrollbar-button:vertical:decrement {
+  background-image: url(../fQ18mrR.png);
+  border-top: 1px solid #bdbdbd;
+  border-left: 1px solid #bdbdbd;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 14px;
+  height: 16px;
+}
+/*end scrollbar*/
+
+.footer {
+  position: absolute;
+  left: 50px;
+  width: 825px;
+  height: 50px;
+  bottom: -100px;
+  text-align: center;
+  background-color: green;
+}
+
+body {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+  color: black;
+  word-wrap:break-word;
+  cursor:default;
+}
+
+html {
+	background-image: url(../bg/jet.png)
+}
+
+.grid {
+	display: grid;
+	position: relative;
+	padding: 2px;
+	grid-template-columns: 300px 600px;
+	grid-template-rows: 100px 50px 500px 2px;
+	grid-auto-flow: row;
+	grid-template-areas:"header header""category category""nav main""footer footer";
+}
+.header {
+	grid-area: header;
+	background-image: url('/elements/blogbanner.png');
+	background-size: cover;
+}
+.category {
+	grid-area: category;
+	background-color: white;
+	border: 2px solid #734c84;
+	border-bottom: none !important;
+}
+.nav {
+	grid-area: nav;
+	background-color: white;
+	border: 2px solid #734c84;
+	align-items: center;
+	overflow-y: scroll;
+	height: 496px;
+}
+.main {
+	grid-area: main;
+	background-color: white;
+	background-size: cover;
+	border: 2px solid #734c84;
+	border-left: none !important;
+}
+.footer {
+	grid-area: footer;
+	background-color: transparent;
+	align-items: center;
+}
+.btn-group button {
+	font-family: "Comic Sans MS", "Comic Sans", 'Chalkboard SE', 'Comic Neue', cursive;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #95b37b;
+	border: none;
+	color: #d13d28;
+	padding: 5px;
+	cursor: pointer;
+	float: left;
+	height: 50px;
+}
+.btn-group button:not(:last-child) {
+	border-right: 2px solid #734c84 !important;
+}
+.btn-group:after {
+	content: "";
+	clear: both;
+	display: table;
+}
+.btn-group button:hover {
+	color: white;
+}
+iframe {
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+.entry {
+	border: 1px dashed #734c84;
+	border-top: 0px solid transparent;
+	border-left: 0px solid transparent;
+	border-right: 0px solid transparent;
+	padding: 5px;
+}
+.entry p {
+	font-family: "Comic Sans MS", "Comic Sans", 'Chalkboard SE', 'Comic Neue', cursive;
+	font-size: 14px;
+	margin: 0px;
+}
+.entry a {
+	font-family: "Comic Sans MS", "Comic Sans", 'Chalkboard SE', 'Comic Neue', cursive;
+	font-weight: bold;
+	font-size: 16px;
+}
+h3 {
+	font-family: "Comic Sans MS", "Comic Sans", 'Chalkboard SE', 'Comic Neue', cursive;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	margin: 0px;
+	background-image: url('/bg/yellowstars.gif');
+	color: #d13d28;
+	border-bottom: 2px solid #734c84;
+}

@@ -1,0 +1,105 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.audio-player {
+  background: white;
+  border: 1px solid #dfdfdf;
+  width: 25vw;
+  max-width: 400px;
+  text-align: center;
+  display: flex;
+  flex-flow: row;
+  margin: 4rem 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.audio-player .album-image {
+  min-height: 100px;
+  width: 110px;
+  background-size: cover;
+  flex-shrink: 0;
+}
+
+.audio-player .player-controls {
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.5rem;
+  flex: 3;
+  display: flex;
+  flex-direction: column;
+}
+
+.audio-player .player-controls progress {
+  width: 90%;
+}
+
+.audio-player .player-controls progress[value] {
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: white;
+  color: blue;
+  height: 5px;
+}
+
+.audio-player .player-controls progress[value]::-webkit-progress-bar {
+  background-color: white;
+  border-radius: 2px;
+  border: 1px solid #dfdfdf;
+  color: blue;
+}
+
+.audio-player .player-controls progress::-webkit-progress-value {
+  background-color: blue;
+}
+
+.audio-player .player-controls p {
+  font-size: 1.6rem;
+}
+
+.audio-player #play-btn {
+  background-image: url("https://cdn.fastly.picmonkey.com/content4/previews/arrows_2/arrows_2_44_550.png");
+  background-size: cover;
+  width: 75px;
+  height: 75px;
+  margin: 2rem 0 2rem 2rem;
+}
+
+.audio-player #play-btn.pause {
+  background-image: url("https://img.icons8.com/ios/452/circled-pause.png");
+}
+
+@media (max-width: 768px) {
+  .audio-player {
+    width: 50vw;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .audio-player .album-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .audio-player .player-controls {
+    margin-top: 1rem;
+  }
+
+  .audio-player #play-btn {
+    margin: 1rem 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .audio-player {
+    width: 80vw;
+  }
+
+  .audio-player .player-controls p {
+    font-size: 1.2rem;
+  }
+}

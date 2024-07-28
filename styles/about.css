@@ -1,0 +1,293 @@
+html {
+     display: flex;
+     font-family: "MS UI Gothic", Tahoma;
+     font-size: 12px;
+     image-rendering: pixelated;
+     image-rendering: -moz-crisp-edges;
+     image-rendering: crisp-edges;
+     font-smooth: never;
+     -webkit-font-smoothing: none;
+}
+/*scrollbar element*/
+ ::-webkit-scrollbar {
+     width: 15px;
+     height: 10px;
+}
+ ::-webkit-scrollbar-thumb:vertical{
+     background-color: #fff;
+     background-image: url(../Qtm9Z60.png);
+     border-top: 1px solid #bdbdbd;
+     border-left: 1px solid #bdbdbd;
+     border-right: 1px solid black;
+     border-bottom: 1px solid black;
+}
+ ::-webkit-scrollbar-track {
+     background-color: #fff;
+     background-image: url(../IGXGYKz.png);
+}
+ ::-webkit-scrollbar-button:vertical:increment {
+     background-image: url(../WhC8iy3.png);
+     width: 14px;
+     height: 16px;
+     border-top: 1px solid #bdbdbd;
+     border-left: 1px solid #bdbdbd;
+     border-right: 1px solid black;
+     border-bottom: 1px solid black;
+}
+ ::-webkit-scrollbar-button:vertical:decrement {
+     background-image: url(../fQ18mrR.png);
+     border-top: 1px solid #bdbdbd;
+     border-left: 1px solid #bdbdbd;
+     border-right: 1px solid black;
+     border-bottom: 1px solid black;
+     width: 14px;
+     height: 16px;
+}
+/*end scrollbar*/
+ body {
+     background: url(../bg/fobg.jpeg) no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     color: black;
+     font-size: 15px;
+     word-wrap:break-word;
+     cursor:default;
+     height: 1200px;
+}
+ .header {
+     position: absolute;
+     top: 10px;
+     left: 100px;
+     height: 125px;
+     width: 800px;
+     padding: 10px;
+     border: 5px solid transparent;
+}
+ .offweb {
+     z-index: 1;
+     position: absolute;
+     top: 120px;
+     right: 40px;
+     width: 400px;
+     height: 50px;
+     border: 3px double black;
+     background: white;
+     text-align: center;
+}
+ .chat {
+     z-index: 1;
+     position: absolute;
+     top: 170px;
+     left: 780px;
+     width: 250px;
+     height: auto;
+     padding: 0px;
+}
+ .first {
+     position: absolute;
+     top: 210px;
+     left: 100px;
+     height: 460px;
+     width: 800px;
+}
+ .second {
+     position: absolute;
+     top: 700px;
+     left: 100px;
+     height: 460px;
+     width: 800px;
+}
+ .welcome {
+     z-index: 2;
+     position: absolute;
+     top: 50px;
+     left: 70px;
+     width: 400px;
+     height: 200px;
+     background: white;
+     border: 3px double black;
+     padding: 2px;
+}
+
+.grid {
+  position: absolute;
+  top: 20px;
+  left: 70px;
+  background: white;
+  display: grid;
+	grid-template-columns: 130px 280px;
+	grid-template-rows: 50px 260px;
+	grid-auto-flow: row;
+	grid-template-areas:"category category""nav main";
+}
+
+.category {
+	grid-area: category;
+	background-color: white;
+	border: 3px double black;
+	border-bottom: none !important;
+}
+
+.nav {
+	grid-area: nav;
+	background-color: white;
+	border: 3px double black;
+	align-items: center;
+	overflow-y: scroll;
+	height: 254px;
+}
+
+.main {
+	grid-area: main;
+	background-color: white;
+	background-size: cover;
+	border: 3px double black;
+	border-left: none !important;
+}
+
+.btn-group button {
+	font-weight: bold;
+	font-size: 16px;
+	background-color: #f6c43b;
+	border: none;
+	color: #d13d28;
+	cursor: pointer;
+	float: left;
+}
+
+.btn-group button:not(:last-child) {
+	border-right: 2px solid black !important;
+}
+
+.btn-group:after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.btn-group button:hover {
+	color: white;
+}
+iframe {
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+.entry {
+	border: 1px dashed #734c84;
+	border-top: 0px solid transparent;
+	border-left: 0px solid transparent;
+	border-right: 0px solid transparent;
+	padding: 5px;
+}
+.entry p {
+	font-size: 10px;
+	margin: 0px;
+}
+.entry a {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+h3 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	margin: 0px;
+	background-image: url('/bg/yellowstars.gif');
+	color: #d13d28;
+	border-bottom: 2px solid #734c84;
+}
+
+ .site {
+     max-width: 95%;
+     height: auto;
+     border: 1px solid white;
+     font-size: 12px;
+     position: absolute;
+     bottom: 0;
+     left: 0;
+     margin: 3px;
+     padding: 5px;
+}
+
+ .footer {
+     position: absolute;
+     left: 100px;
+     width: 825px;
+     height: 50px;
+     bottom: -400px;
+     text-align: center;
+}
+ .portfolio {
+     display: inline-block;
+     position: absolute;
+     left: 100px;
+     width: 825px;
+     height: 100px;
+     top: 535px;
+     text-align: center;
+     background-image: url("../img/portfolio.gif");
+     border: 3px double white;
+}
+ .temp {
+     position: absolute;
+     top: 10px;
+     left: 485px;
+     width: 178px;
+     height: 870px;
+     background-color: black;
+     border: 1px solid white;
+     text-align: center;
+     color: white;
+}
+ .grid-container {
+     display: grid;
+     grid-template-columns: 200px 200px 200px 200px;
+     grid-template-rows: 200px 200px 200px 200px;
+     gap: 2px;
+     padding: 2px;
+     width: 820px;
+     height: 620px;
+     position: absolute;
+     left: 100px;
+     top: 1100px;
+     background-color: blue;
+     justify-content: center;
+     border: 1px solid black;
+}
+ .grid-container > div {
+     text-align: center;
+     font-size: 30px;
+}
+/*Text Styles*/
+ h1 {
+     color: white;
+     font-weight: bold;
+     font-size: 60px;
+     text-decoration: underline;
+     text-align: left;
+     margin: 0px 5px 0px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visted {
+  color: black;
+}
+
+/*Button Styles*/
+.headerbtn {
+     border: none;
+     color: white;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 25px;
+     cursor: pointer;
+     margin: 10px 3px;
+}
